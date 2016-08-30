@@ -5,9 +5,9 @@ build NodeJS for android perfectly(without disable nor change anything) on Linux
 
 [NodeJS](https://github.com/nodejs/node): 6.3.1-6.5.0
 
-Linux Ubuntu 16.04, NDK 12.1.29
+Linux: Ubuntu 16.04, NDK 12.1.29
 
-I'v made a tool [android-gcc-toolchain](https://github.com/sjitech/android-gcc-toolchain) 
+I'v made a tool [android-gcc-toolchain](https://github.com/sjitech/android-gcc-toolchain)
 to use NDK toolchain easily and do some hack to overcome some common mistaken of cross-compile settings.
 
 So the build commands are:
